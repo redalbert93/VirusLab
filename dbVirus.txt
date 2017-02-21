@@ -1,0 +1,4 @@
+1 Android/Locker.KY.Gen  00 malware  00 elevato  00 Il file è un'applicazione Android dannosa che indebolisce la sicurezza del dispositivo o la privacy dell'utente. 00 
+2 Android/Hiddad.BG.Gen  00 malware  00 medio  00 Metodo di propagazione: visite a siti web infetti. 00 
+3  PUA/BandwidthStat.ME.2  00 application  00 basso  00 applicazioni potenzialmente indesiderate (PUA), può compromettere la privacy dell'utente e la sicurezza del sistema locale 00 
+999
